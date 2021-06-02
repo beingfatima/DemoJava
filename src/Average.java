@@ -12,6 +12,8 @@ public class Average {
 
         double average = sum / numArray.length;
         System.out.format("%.2f", average);
+        System.out.println("\nhello world");
+        System.out.println("helloooooooooooooo");
        
 
 	}
